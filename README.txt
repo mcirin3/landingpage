@@ -11,7 +11,7 @@ Welcome to the MC Codes personal website! This website serves as a professional 
   - **Writer**: Insights into Mark's thoughts on tech trends.
   - **Amateur Volleyball Player**: A personal hobby and interest.
 
-### Blog
+###Blog
 - **Generic Blog Page**: Placeholder for blog posts written by Mark Cirineo, reflecting on various topics related to tech and personal experiences.
 
 ### Resume
