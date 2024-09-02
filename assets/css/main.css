@@ -79,7 +79,7 @@ input, select, textarea {
 	}
 
 	body {
-		-ms-overflow-style: scrollbar;
+		-ms-overflow-style: autohiding-scrollbar;
 	}
 
 	@media screen and (max-width: 480px) {
@@ -99,8 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		background-color: #565658;
+		background-image: linear-gradient(to top, rgba(2, 7, 33, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
